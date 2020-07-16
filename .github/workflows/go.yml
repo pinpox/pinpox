@@ -31,7 +31,7 @@ jobs:
         fi
 
     - name: Build and Generate
-      run: go run builder.go
+      run: go run builder.go > README.md
 
     - name: Commit and push
       run: |-
