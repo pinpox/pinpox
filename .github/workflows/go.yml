@@ -30,11 +30,8 @@ jobs:
             dep ensure
         fi
 
-    - name: Build
-      run: go build -v .
-
-    - name: Generate
-      run: ./builder
+    - name: Build and Generate
+      run: go run builder.go
 
     - name: Commit and push
       run: |-
