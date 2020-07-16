@@ -27,13 +27,14 @@
 	<tr>
 		<td>
 			Hi, there! The markdown you are reading right now has been
-			**auto-generated**. *How?* Well, it turns out you can use **GitHub Actions**
-			to run a script that does exacly that. I like to tinker with all
-			sorts of stuff, and maintain a <a href="https://pablo.tools"
-			target="_blank">personal website</a>. Below you find some of the
-		<a href="https://pablo.tools" target="_blank">latest posts</a>.  If
-		you'd like to read more about how this file is generated from there,
-		I've also got you covered ;)
+			<b>auto-generated</b>. <i>How?</i> Well, it turns out you can use
+				<b>GitHub Actions</b> to run a script that does exacly that. I
+				like to tinker with all sorts of stuff, and maintain a <a
+					href="https://pablo.tools" target="_blank">personal
+					website</a>. Below you find some of the <a
+				href="https://pablo.tools" target="_blank">latest posts</a>.
+			If you'd like to read more about how this file is generated from
+			there, I've also got you covered ;)
 		</td>
 	</tr>
 </table>
