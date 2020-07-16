@@ -2,11 +2,25 @@
 <p align="center">
   <img height="150" src="https://imgur.com/3carGSE.png">
 </p>
-<h4 align="center">Pablo Ovelleiro Corral.</h4>
+<h4 align="center">Pablo Ovelleiro Corral</h4>
 
 <p align="center">
-	<a href="https://pablo.tools"> <img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue" alt="Website"> </a>
-	<a href="https://github.com/pinpox"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/pinpox?label=Github"> </a>
+
+	<a href="https://pablo.tools" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=web&message=pablo.tools&color=blue&style=for-the-badge" alt="Website">
+	</a>
+
+	<a href="https://github.com/pinpox" target="_blank">
+		<img src="https://img.shields.io/github/followers/pinpox?label=Github&style=for-the-badge" alt="Github">
+	</a>
+
+	<a href="https://chaos.social/web/accounts/227899" target="_blank">
+		<img src="https://img.shields.io/mastodon/follow/227899?domain=https%3A%2F%2Fchaos.social&style=for-the-badge" alt="Mastodon">
+	</a>
+
+	<a href="https://chaos.social/web/accounts/227899" target="_blank">
+		<img src="https://img.shields.io/twitter/follow/pinp0x?color=blue&style=for-the-badge" alt="Twitter">
+	</a>
 </p>
 
 <table>
