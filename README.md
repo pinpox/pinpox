@@ -1,13 +1,9 @@
 
-
-<img src="https://pablo.tools/img/avatar.gif" align="center"
-											  alt="Pablo Ovelleiro Corral" width="200" height="200">
-
-
+<p align="center">
+  <img height="150" src="https://imgur.com/3carGSE.png">
+</p>
 <h4 align="center">Pablo Ovelleiro Corral<a href="https://pablo.tools" target="_blank">Website</a>.</h4>
 
-<i class="fa fa-github" aria-hidden="true"></i>
-<p align="center">
 
 <a href="https://pablo.tools">
 	<img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue" alt="Website">
