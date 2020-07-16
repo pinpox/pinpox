@@ -5,19 +5,12 @@
 <h4 align="center">Pablo Ovelleiro Corral.</h4>
 
 <p align="center">
+	<a href="https://pablo.tools"> <img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue" alt="Website"> </a>
 
-	<a href="https://pablo.tools">
-		<img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue" alt="Website">
-	</a>
+	<a href="https://github.com/pinpox"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/pinpox?label=Github"> </a>
 
-	<a href="https://github.com/pinpox">
-		<img alt="GitHub followers" src="https://img.shields.io/github/followers/pinpox?label=Github">
-	</a>
-
-	<p align="center">
-		<a href="https://pablo.tools" target="_blank">Website</a>
-	</p>
 </p>
+	<p align="center"> <a href="https://pablo.tools" target="_blank">Website</a> </p>
 
 <table>
 	<tr>
