@@ -1,0 +1,35 @@
+
+
+<img src="https://pablo.tools/img/avatar.gif" align="center"
+											  alt="Pablo Ovelleiro Corral" width="200" height="200">
+
+
+<h4 align="center">Pablo Ovelleiro Corral<a href="https://pablo.tools" target="_blank">Website</a>.</h4>
+
+<i class="fa fa-github" aria-hidden="true"></i>
+<p align="center">
+
+<a href="https://pablo.tools">
+	<img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue" alt="Website">
+</a>
+
+
+<a href="https://github.com/pinpox">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/pinpox?label=Github">
+</a>
+
+</p>
+
+<table>
+	<tr>
+		<td>
+			A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+		</td>
+	</tr>
+</table>
+
+{{ range $cat, $posts:= . }}
+## {{ $cat }}:
+{{range $i, $p:= $posts}}{{if lt $i 5}}- [{{$p.Title}}]({{$p.Link}})
+{{end}}{{end}}
+{{ end }}
