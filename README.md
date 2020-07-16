@@ -6,9 +6,9 @@
 
 <i class="fa fa-github" aria-hidden="true"></i>
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+  <a href="https://pablo.tools">
+    <img src="https://img.shields.io/badge/web-https%3A%2F%2Fpablo.tools-blue"
+         alt="Website">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/amitmerchant1990">
