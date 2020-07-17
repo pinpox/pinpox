@@ -10,13 +10,8 @@ import (
 func main() {
 	feed, err := rss.Fetch("https://pablo.tools/index.xml")
 	if err != nil {
-		// handle error.
+		panic(err)
 	}
-
-	// ... Some time later ...
-
-	// fmt.Println(feed.Nickname)
-	// fmt.Println(feed.Title)
 
 	posts := make(map[string][]*rss.Item)
 
