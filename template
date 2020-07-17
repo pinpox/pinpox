@@ -12,10 +12,10 @@
 		<img src="https://img.shields.io/github/followers/pinpox?label=Github&style=for-the-badge&color=blue" alt="Github">
 	</a>
 	<a href="https://chaos.social/web/accounts/227899" target="_blank">
-		<img src="https://img.shields.io/mastodon/follow/227899?domain=https%3A%2F%2Fchaos.social&style=for-the-badge&color=blue" alt="Mastodon">
+		<img src="https://img.shields.io/mastodon/follow/227899?domain=https%3A%2F%2Fchaos.social&style=for-the-badge&color=blue&label=mastodon" alt="Mastodon">
 	</a>
-	<a href="https://chaos.social/web/accounts/227899" target="_blank">
-		<img src="https://img.shields.io/twitter/follow/pinp0x?color=blue&style=for-the-badge" alt="Twitter">
+	<a href="https://twitter.com/pinp0x" target="_blank">
+		<img src="https://img.shields.io/twitter/follow/pinp0x?color=blue&style=for-the-badge&label=twitter" alt="Twitter">
 	</a>
 </p>
 
