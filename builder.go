@@ -23,7 +23,7 @@ func main() {
 	for _, v := range feed.Items {
 		if strings.HasPrefix(v.Link, "https://pablo.tools/posts") {
 			cat := strings.Title(strings.Split(v.Link, "/")[4])
-			posts[cat] = append(posts[cat], v)
+			posts[cat] = append(v, posts[cat])
 		}
 	}
 
