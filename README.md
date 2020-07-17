@@ -22,7 +22,7 @@
 <table>
 	<tr>
 		<td>
-			Hi, there 👋! The markdown you are reading right now has been
+			Hi, there! The markdown you are reading right now has been
 			<b>auto-generated</b>. <i>How?</i> Well, it turns out you can use
 				<b>GitHub Actions</b> to run a script that does exacly that. I
 				like to tinker with all sorts of stuff, and maintain a <a
