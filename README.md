@@ -37,11 +37,11 @@
 
 
 ## Computers:
+- [Nix & NixOS: Part 1 - Introduction](https://pablo.tools/posts/computers/nixos-introduction/)
 - [The Znap ZSH plugin-manager](https://pablo.tools/posts/computers/znap-zsh-plugin-manager/)
 - [Self-updating GitHub Readme](https://pablo.tools/posts/computers/dynamic-github-readme/)
 - [Porting Cronjobs to Systemd Timers](https://pablo.tools/posts/computers/cron-to-systemd/)
 - [Custom Kali with Ansible and Vagrant](https://pablo.tools/posts/computers/custom-kali-box/)
-- [Dropped HomePlug AV packets](https://pablo.tools/posts/computers/dropped-packets/)
 
 
 ## Electronics:
