@@ -39,9 +39,9 @@
 ## Computers:
 - [Nix & NixOS: Packaging applications for Nix](https://pablo.tools/posts/computers/packaging-for-nix/)
 - [Nix & NixOS: Declarative Docker on NixOS](https://pablo.tools/posts/computers/declarative-docker-on-nixos/)
+- [Nix & NixOS: Installation with encrypted root](https://pablo.tools/posts/computers/nixos-encrypted-install/)
 - [Nix & NixOS: Introduction](https://pablo.tools/posts/computers/nixos-introduction/)
 - [The Znap ZSH plugin-manager](https://pablo.tools/posts/computers/znap-zsh-plugin-manager/)
-- [Self-updating GitHub Readme](https://pablo.tools/posts/computers/dynamic-github-readme/)
 
 
 ## Electronics:
