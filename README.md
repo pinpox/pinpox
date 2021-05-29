@@ -37,23 +37,23 @@
 
 
 ## Computers:
-- [Nix & NixOS: Packaging applications for Nix](https://pablo.tools/posts/computers/packaging-for-nix/)
-- [Nix & NixOS: Declarative Docker on NixOS](https://pablo.tools/posts/computers/declarative-docker-on-nixos/)
-- [Nix & NixOS: Installation with encrypted root](https://pablo.tools/posts/computers/nixos-encrypted-install/)
-- [Nix & NixOS: Introduction](https://pablo.tools/posts/computers/nixos-introduction/)
-- [The Znap ZSH plugin-manager](https://pablo.tools/posts/computers/znap-zsh-plugin-manager/)
+- [Hugo to Zola](https://pablo.tools/blog/computers/blog-to-zola/)
+- [Generating Raspberry Pi Images with NixOS](https://pablo.tools/blog/computers/nixos-generate-raspberry-images/)
+- [Nix & NixOS: Packaging applications for Nix](https://pablo.tools/blog/computers/packaging-for-nix/)
+- [Nix & NixOS: Declarative Docker on NixOS](https://pablo.tools/blog/computers/declarative-docker-on-nixos/)
+- [Nix & NixOS: Installation with encrypted root](https://pablo.tools/blog/computers/nixos-encrypted-install/)
 
 
 ## Electronics:
-- [Philsonic AK-635: Diagnostics](https://pablo.tools/posts/electronics/philsonic-ak-635-part-2/)
-- [Philsonic AK-635: Intro](https://pablo.tools/posts/electronics/philsonic-ak-635-part-1/)
+- [Philsonic AK-635: Intro](https://pablo.tools/blog/electronics/philsonic-ak-635-part-1/)
+- [Philsonic AK-635: Diagnostics](https://pablo.tools/blog/electronics/philsonic-ak-635-part-2/)
 
 
 ## Motorcycles:
-- [Bremszange Instandsetzen](https://pablo.tools/posts/motorcycles/bremszange/)
-- [Ventile einschleifen](https://pablo.tools/posts/motorcycles/r100gs-ventile-einschleifen/)
-- [Vermessen des Zylinderkopfs](https://pablo.tools/posts/motorcycles/r100gs-zylinder-vermessen/)
-- [Ausbau der Ventile](https://pablo.tools/posts/motorcycles/r100gs-ausbau-ventile/)
-- [Demontage Zylinder](https://pablo.tools/posts/motorcycles/r100gs-zylinder-demontage/)
+- [Bremszange Instandsetzen](https://pablo.tools/blog/motorcycles/bremszange/)
+- [Ventile einschleifen](https://pablo.tools/blog/motorcycles/r100gs-ventile-einschleifen/)
+- [Vermessen des Zylinderkopfs](https://pablo.tools/blog/motorcycles/r100gs-zylinder-vermessen/)
+- [Ausbau der Ventile](https://pablo.tools/blog/motorcycles/r100gs-ausbau-ventile/)
+- [Demontage Zylinder](https://pablo.tools/blog/motorcycles/r100gs-zylinder-demontage/)
 
 
