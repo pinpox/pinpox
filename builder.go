@@ -1,14 +1,15 @@
 package main
 
 import (
-	"github.com/SlyMarbo/rss"
 	"os"
 	"strings"
 	"text/template"
+
+	"github.com/SlyMarbo/rss"
 )
 
 func main() {
-	feed, err := rss.Fetch("https://pablo.tools/index.xml")
+	feed, err := rss.Fetch("https://pablo.tools/atom.xml")
 	if err != nil {
 		panic(err)
 	}
@@ -16,7 +17,8 @@ func main() {
 	posts := make(map[string][]*rss.Item)
 
 	for _, v := range feed.Items {
-		if strings.HasPrefix(v.Link, "https://pablo.tools/posts") {
+		if strings.HasPrefix(v.Link, "https://pablo.tools/blog") {
+
 			cat := strings.Title(strings.Split(v.Link, "/")[4])
 			posts[cat] = append(posts[cat], v)
 		}
