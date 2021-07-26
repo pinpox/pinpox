@@ -37,11 +37,11 @@
 
 
 ## Computers:
+- [Mustache file templating in Nix](https://pablo.tools/blog/computers/nix-mustache-templates/)
 - [Hugo to Zola](https://pablo.tools/blog/computers/blog-to-zola/)
 - [Generating Raspberry Pi Images with NixOS](https://pablo.tools/blog/computers/nixos-generate-raspberry-images/)
 - [Nix & NixOS: Packaging applications for Nix](https://pablo.tools/blog/computers/packaging-for-nix/)
 - [Nix & NixOS: Declarative Docker on NixOS](https://pablo.tools/blog/computers/declarative-docker-on-nixos/)
-- [Nix & NixOS: Installation with encrypted root](https://pablo.tools/blog/computers/nixos-encrypted-install/)
 
 
 ## Electronics:
