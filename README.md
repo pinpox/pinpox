@@ -50,10 +50,10 @@
 
 
 ## Motorcycles:
+- [Ventildeckel überarbeiten](https://pablo.tools/blog/motorcycles/r100gs-ventildeckel/)
 - [Zusammenbau des Motors](https://pablo.tools/blog/motorcycles/r100gs-motor-zusammenbau/)
 - [Bremszange Instandsetzen](https://pablo.tools/blog/motorcycles/bremszange/)
 - [Ventile einschleifen](https://pablo.tools/blog/motorcycles/r100gs-ventile-einschleifen/)
 - [Vermessen des Zylinderkopfs](https://pablo.tools/blog/motorcycles/r100gs-zylinder-vermessen/)
-- [Ausbau der Ventile](https://pablo.tools/blog/motorcycles/r100gs-ausbau-ventile/)
 
 
