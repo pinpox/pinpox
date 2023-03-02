@@ -5,10 +5,10 @@
 <h4 align="center">Pablo Ovelleiro Corral</h4>
 
 <p align="center">
-	<a href="https://pablo.tools" target="_blank">
+	<a rel="me" href="https://pablo.tools/contact" target="_blank">
 		<img src="https://img.shields.io/static/v1?label=web&message=pablo.tools&color=blue&style=for-the-badge" alt="Website">
 	</a>
-	<a rel="me" href="https://github.com/pinpox" target="_blank">
+	<a href="https://github.com/pinpox" target="_blank">
 		<img src="https://img.shields.io/github/followers/pinpox?label=Github&style=for-the-badge&color=blue" alt="Github">
 	</a>
 	<a href="https://chaos.social/web/accounts/227899" target="_blank">
