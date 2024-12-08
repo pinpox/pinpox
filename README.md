@@ -5,7 +5,7 @@
 <h4 align="center">Pablo Ovelleiro Corral</h4>
 
 <p align="center">
-	<a rel="me" href="https://pablo.tools/contact" target="_blank">
+	<a href="https://pablo.tools" target="_blank">
 		<img src="https://img.shields.io/static/v1?label=web&message=pablo.tools&color=blue&style=for-the-badge" alt="Website">
 	</a>
 	<a href="https://github.com/pinpox" target="_blank">
@@ -37,16 +37,19 @@
 
 
 ## Computers:
+- [Home-assistant Macropad](https://pablo.tools/blog/computers/home-assistant-macropad/)
+- [System-wide colorscheme](https://pablo.tools/blog/computers/system-wide-colorscheme/)
+- [Lollypops: Let's build a deployment tool!](https://pablo.tools/blog/computers/lollypops-deployment/)
 - [Mustache file templating in Nix](https://pablo.tools/blog/computers/nix-mustache-templates/)
 - [Hugo to Zola](https://pablo.tools/blog/computers/blog-to-zola/)
-- [Generating Raspberry Pi Images with NixOS](https://pablo.tools/blog/computers/nixos-generate-raspberry-images/)
-- [Nix & NixOS: Packaging applications for Nix](https://pablo.tools/blog/computers/packaging-for-nix/)
-- [Nix & NixOS: Declarative Docker on NixOS](https://pablo.tools/blog/computers/declarative-docker-on-nixos/)
 
 
 ## Electronics:
+- [Pillz Mod for Kinesis Keyboard](https://pablo.tools/blog/electronics/pillz-mod/)
+- [Kinesis Essential Keyboard](https://pablo.tools/blog/electronics/kinesis-essential/)
+- [Analog gamepad for Trackmania](https://pablo.tools/blog/electronics/trackmania-gamepad/)
+- [DBX 286s Toroidal Transformer](https://pablo.tools/blog/electronics/dbx286s-power-supply/)
 - [Philsonic AK-635: Intro](https://pablo.tools/blog/electronics/philsonic-ak-635-part-1/)
-- [Philsonic AK-635: Diagnostics](https://pablo.tools/blog/electronics/philsonic-ak-635-part-2/)
 
 
 ## Motorcycles:
@@ -55,5 +58,9 @@
 - [Zusammenbau des Motors](https://pablo.tools/blog/motorcycles/r100gs-motor-zusammenbau/)
 - [Bremszange Instandsetzen](https://pablo.tools/blog/motorcycles/bremszange/)
 - [Ventile einschleifen](https://pablo.tools/blog/motorcycles/r100gs-ventile-einschleifen/)
+
+
+## Random:
+- [Low-barrier posts](https://pablo.tools/blog/random/low-barrier-posts/)
 
 
